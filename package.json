@@ -1,0 +1,33 @@
+{
+    "name": "neo-nuxt3-blend",
+    "displayName": "Neo Nuxt 3 Blend",
+    "description": "In celebration of the upcoming release of Nuxt 3, use best theme that represents Nuxt 3.",
+    "version": "0.0.1",
+    "publisher": "CeoDev",
+    "license": "Apache-2.0",
+    "author": "Vantol Bennett [@ceodev]",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "nuxt",
+        "theme",
+        "blend"
+    ],
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "neo-nuxt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/neo-nuxt-color-theme.json"
+            }
+        ]
+    }
+}
