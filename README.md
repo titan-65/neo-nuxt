@@ -19,3 +19,9 @@ Soon Coming!!
 
 ## Installation 
 
+
+
+## Screenshots
+<p align="center"><img src="https://res.cloudinary.com/ceodevforce/image/upload/v1654452567/Neo-Nuxt1_nbtuuw.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/ceodevforce/image/upload/v1654452566/Neo-Nuxt4_ngayvu.png"></p>
+
