@@ -10,6 +10,7 @@
         "type": "git",
         "url": "https://github.com/titan-65/neo-nuxt"
     },
+    "icon": "images/Neo.png",
     "keywords": [
         "nuxt",
         "theme",
