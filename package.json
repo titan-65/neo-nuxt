@@ -25,13 +25,11 @@
     "contributes": {
         "themes": [
             {
-                "id": "neo-nuxt3-blend",
                 "label": "neo-nuxt",
                 "uiTheme": "vs-dark",
                 "path": "./themes/neo-nuxt-color-theme.json"
             },
             {
-                "id": "neo-nuxt3-bleach",
                 "label": "neo-nuxt-bleach",
                 "uiTheme": "vs",
                 "path": "./themes/nuxt-bleach-color-theme.json"
