@@ -30,6 +30,11 @@
                 "path": "./themes/neo-nuxt-color-theme.json"
             },
             {
+                "label": "neo-nuxt-matte",
+                "uiTheme": "vs-matte",
+                "path": "./themes/neo-nuxt-matte-color-theme.json"
+            },
+            {
                 "label": "neo-nuxt-bleach",
                 "uiTheme": "vs",
                 "path": "./themes/nuxt-bleach-color-theme.json"
