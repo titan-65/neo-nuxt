@@ -34,11 +34,24 @@ ext install neo nuxt 3 blend
 
 ## Screenshots
 
-<p align="center"><img src="https://res.cloudinary.com/ceodevforce/image/upload/v1654452567/Neo-Nuxt1_nbtuuw.png"></p>
+Nuxt Blend Original:
+
+<p align="center"><img src="images/neo-nuxt-3.png"></p>
 
 
 <p align="center"><img src="https://res.cloudinary.com/ceodevforce/image/upload/v1654452566/Neo-Nuxt4_ngayvu.png"></p>
 
+Neo Nuxt Bleach
+
+<p align="center"><img src="images/nuxt-bleach.png"></p>
+
+<p align="center"><img src="images/neo-bleach2.png"></p>
+
+Neo Nuxt Matte
+
+<p align="center"><img src="images/nuxt-matte.png"></p>
+
+<p align="center"><img src="images/neo-matte2.png"></p>
 
 ## Other Resources
 
